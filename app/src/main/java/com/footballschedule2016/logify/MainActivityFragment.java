@@ -15,6 +15,11 @@ import android.widget.Button;
 
 import com.footballschedule2016standings.ScrollingActivity;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+
 import butterknife.Bind;
 import butterknife.ButterKnife;
 
@@ -27,6 +32,7 @@ public class MainActivityFragment extends Fragment {
     @Bind(R.id.gameCalendarButton) Button gameCalendarButton;
     @Bind(R.id.standingsButton) Button standingsButton;
     @Bind(R.id.weeksButton) Button weeklyButton;
+    @Bind(R.id.preseasonButton) Button preseasnButton;
     private OnFragmentInteractionListener mListener;
 
     public MainActivityFragment() {
@@ -92,10 +98,36 @@ public class MainActivityFragment extends Fragment {
                 mListener.onNewActivity(new Intent(getActivity(), WeeklyGamesActivity.class));
             }
         });
-
+        if(checkPreseasonGamesDate()){
+            preseasnButton.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    mListener.onChangeFragmentCondition(new PreseasonFragment());
+                }
+            });
+        }
     }
 
-   
+    private boolean checkPreseasonGamesDate() {
+        Calendar lastGames = Calendar.getInstance();
+        SimpleDateFormat dateFormat = new SimpleDateFormat("MM/dd/yyyy");
+
+        try {
+            lastGames.setTime(dateFormat.parse("09/03/2016"));
+            if(dateFormat.parse("09/02/2016").getSeconds() < new Date().getSeconds()) {
+                preseasnButton.setVisibility(View.VISIBLE);
+                return true;
+            }else{
+                preseasnButton.setVisibility(View.GONE);
+                return false;
+            }
+        } catch (ParseException e) {
+            e.printStackTrace();
+        }
+
+        return false;
+    }
+
     private void showInfoDialog() {
 
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());

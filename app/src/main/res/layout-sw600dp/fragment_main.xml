@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.footballschedule2016.logify.MainActivityFragment"
+    android:background="@drawable/main_background"
+    android:clickable="false"
+    android:backgroundTint="#B6000000"
+    android:backgroundTintMode="src_atop">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:id="@+id/linearLayout">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Game Calendar"
+            android:id="@+id/gameCalendarButton"
+            android:background="@drawable/main_button"
+            android:textColor="@android:color/white"
+            android:gravity="center_vertical|center_horizontal"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:layout_below="@+id/calendarButton"
+            android:layout_alignLeft="@+id/calendarButton"
+            android:layout_alignStart="@+id/calendarButton"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/teamsButton"
+            android:background="@drawable/main_button"
+            android:textColor="@android:color/white"
+            android:gravity="center_vertical|center_horizontal"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:text="Teams"
+            android:layout_above="@+id/calendarButton"
+            android:layout_alignLeft="@+id/calendarButton"
+            android:layout_alignStart="@+id/calendarButton"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Standings"
+            android:id="@+id/standingsButton"
+            android:background="@drawable/main_button"
+            android:textColor="@android:color/white"
+            android:gravity="center_vertical|center_horizontal"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Weekly"
+            android:id="@+id/weeksButton"
+            android:background="@drawable/main_button"
+            android:textColor="@android:color/white"
+            android:gravity="center_vertical|center_horizontal"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:layout_below="@+id/calendarButton"
+            android:layout_alignLeft="@+id/calendarButton"
+            android:layout_alignStart="@+id/calendarButton"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp" />
+    </LinearLayout>
+
+</RelativeLayout>

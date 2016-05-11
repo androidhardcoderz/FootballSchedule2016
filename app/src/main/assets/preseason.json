@@ -1,0 +1,1948 @@
+{
+  "season": 2016,
+  "type": "PRE",
+  "weeks": [{
+    "id": "8aa6ae1d-dca2-4718-a18a-76de402e684e",
+    "number": 0,
+    "games": [{
+      "id": "a1a343b7-0631-4c04-bd88-dad5c89f51bc",
+      "scheduled": "2016-08-08T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "IND",
+      "away": "GB",
+      "status": "scheduled",
+      "venue": {
+        "id": "de94507b-cb7b-4684-a0ff-fad0131847e5",
+        "country": "USA",
+        "name": "Tom Benson Hall of Fame Stadium",
+        "city": "Canton",
+        "state": "OH",
+        "capacity": 22375,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "44708",
+        "address": "2121 George Halas Drive NW"
+      },
+      "broadcast": {
+        "network": "ESPN",
+        "satellite": "206",
+        "internet": "WatchESPN"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }]
+  }, {
+    "id": "069227e3-e5ca-4544-8e4d-bcb4913b59aa",
+    "number": 1,
+    "games": [{
+      "id": "30fba042-9c84-43ff-850d-06574ac05ab4",
+      "scheduled": "2016-08-11T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "ATL",
+      "away": "WAS",
+      "status": "scheduled",
+      "venue": {
+        "id": "216de6bf-bce0-409a-a9e7-90db8df1f7b9",
+        "country": "USA",
+        "name": "Georgia Dome",
+        "city": "Atlanta",
+        "state": "GA",
+        "capacity": 74228,
+        "surface": "artificial",
+        "type": "dome",
+        "zip": "30313",
+        "address": "One Georgia Dome Drive Northwest"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "18964701-9136-4073-8239-01ebd0f878a5",
+      "scheduled": "2016-08-11T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "PHI",
+      "away": "TB",
+      "status": "scheduled",
+      "venue": {
+        "id": "4fa8c29c-6626-464c-8540-314ed7535e1b",
+        "country": "USA",
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia",
+        "state": "PA",
+        "capacity": 68532,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "19148",
+        "address": "1020 Pattison Avenue"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "1f4996b7-3951-41b4-9ddb-a26d17161de7",
+      "scheduled": "2016-08-11T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "NYJ",
+      "away": "JAC",
+      "status": "scheduled",
+      "venue": {
+        "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+        "country": "USA",
+        "name": "MetLife Stadium",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "capacity": 82500,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "07073",
+        "address": "One MetLife Stadium Drive"
+      },
+      "broadcast": {
+        "network": "CBS"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "4c96878f-921c-414b-9fcd-5c90669ed89c",
+      "scheduled": "2016-08-11T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "BAL",
+      "away": "CAR",
+      "status": "scheduled",
+      "venue": {
+        "id": "d54faae0-0314-484f-8604-9d8dd08e1149",
+        "country": "USA",
+        "name": "M&T Bank Stadium",
+        "city": "Baltimore",
+        "state": "MD",
+        "capacity": 71008,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "21230",
+        "address": "1101 Russell Street"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "eb1ed4d0-8ebd-4082-bc7b-bc1006bce3f5",
+      "scheduled": "2016-08-11T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "NE",
+      "away": "NO",
+      "status": "scheduled",
+      "venue": {
+        "id": "e43310b1-cb82-4df9-8be5-e9b39637031b",
+        "country": "USA",
+        "name": "Gillette Stadium",
+        "city": "Foxborough",
+        "state": "MA",
+        "capacity": 68756,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "02035",
+        "address": "One Patriot Place"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "f33243cd-cce1-4e97-a130-be953f39ed48",
+      "scheduled": "2016-08-12T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "CHI",
+      "away": "DEN",
+      "status": "scheduled",
+      "venue": {
+        "id": "d7866605-5ac6-4b3a-90e8-760cc5a26b75",
+        "country": "USA",
+        "name": "Soldier Field",
+        "city": "Chicago",
+        "state": "IL",
+        "capacity": 61500,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "60605",
+        "address": "1410 South Museum Campus Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "d1179b86-bbde-4159-b0b0-ee39c8020397",
+      "scheduled": "2016-08-12T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "NYG",
+      "away": "MIA",
+      "status": "scheduled",
+      "venue": {
+        "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+        "country": "USA",
+        "name": "MetLife Stadium",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "capacity": 82500,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "07073",
+        "address": "One MetLife Stadium Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "8a799cda-9ccd-4501-bb87-d1d6ee2d6ad5",
+      "scheduled": "2016-08-12T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "PIT",
+      "away": "DET",
+      "status": "scheduled",
+      "venue": {
+        "id": "7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34",
+        "country": "USA",
+        "name": "Heinz Field",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "capacity": 65050,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "15212",
+        "address": "100 Art Rooney Avenue"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "0a72d9f2-1ec4-4f8b-bf77-29bb6453423f",
+      "scheduled": "2016-08-12T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "CIN",
+      "away": "MIN",
+      "status": "scheduled",
+      "venue": {
+        "id": "b87a1595-d3c8-48ea-8a53-0aab6378a64a",
+        "country": "USA",
+        "name": "Paul Brown Stadium",
+        "city": "Cincinnati",
+        "state": "OH",
+        "capacity": 65535,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "45202",
+        "address": "One Paul Brown Stadium"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "39577d54-bdb6-4c71-8fd2-ee2420916f49",
+      "scheduled": "2016-08-13T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "GB",
+      "away": "CLE",
+      "status": "scheduled",
+      "venue": {
+        "id": "5a60dd3a-302c-41c6-ab0f-dd335c1103c2",
+        "country": "USA",
+        "name": "Lambeau Field",
+        "city": "Green Bay",
+        "state": "WI",
+        "capacity": 80750,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "54304",
+        "address": "1265 Lombardi Avenue"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "983393f4-4336-4f80-9c7c-0a653ab81328",
+      "scheduled": "2016-08-13T02:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "ARI",
+      "away": "OAK",
+      "status": "scheduled",
+      "venue": {
+        "id": "f8e4d2ab-53f9-4e9f-8c4a-9bc278094a84",
+        "country": "USA",
+        "name": "University of Phoenix Stadium",
+        "city": "Glendale",
+        "state": "AZ",
+        "capacity": 63400,
+        "surface": "turf",
+        "type": "retractable_dome",
+        "zip": "85305",
+        "address": "One Cardinals Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "fcdc53bc-66ac-4c42-8df9-ad379a757838",
+      "scheduled": "2016-08-13T20:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "KC",
+      "away": "SEA",
+      "status": "scheduled",
+      "venue": {
+        "id": "2ec4c411-dac2-403d-b091-6b6aa4a0a914",
+        "country": "USA",
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City",
+        "state": "MO",
+        "capacity": 79451,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "64129",
+        "address": "One Arrowhead Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "828e5592-fb83-40ba-931c-3e35f622156e",
+      "scheduled": "2016-08-13T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "BUF",
+      "away": "IND",
+      "status": "scheduled",
+      "venue": {
+        "id": "e9e0828e-37fc-4238-a317-49037577dd55",
+        "country": "USA",
+        "name": "Ralph Wilson Stadium",
+        "city": "Orchard Park",
+        "state": "NY",
+        "capacity": 73079,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "14127",
+        "address": "One Bills Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "4023152d-2136-40e4-8719-ac23e8af4728",
+      "scheduled": "2016-08-14T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "LA",
+      "away": "DAL",
+      "status": "scheduled",
+      "venue": {
+        "id": "4de1fcde-7c65-4145-a874-3753bdd584b7",
+        "country": "USA",
+        "name": "Los Angeles Memorial Coliseum",
+        "city": "Los Angeles",
+        "state": "CA",
+        "capacity": 93607,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "90037",
+        "address": "3911 South Figueroa Street"
+      },
+      "broadcast": {
+        "network": "ESPN",
+        "satellite": "206",
+        "internet": "WatchESPN"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "10a1b171-83f2-4ff8-9cde-b833d297311b",
+      "scheduled": "2016-08-14T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "TEN",
+      "away": "SD",
+      "status": "scheduled",
+      "venue": {
+        "id": "5295c1b7-c85c-49cb-9569-1707c65324e5",
+        "country": "USA",
+        "name": "Nissan Stadium",
+        "city": "Nashville",
+        "state": "TN",
+        "capacity": 69143,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "37213",
+        "address": "One Titans Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "d0813f5a-78d3-4169-a196-592f579ca294",
+      "scheduled": "2016-08-14T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "SF",
+      "away": "HOU",
+      "status": "scheduled",
+      "venue": {
+        "id": "24c71dbf-6469-46f1-8165-22005c295c8f",
+        "country": "USA",
+        "name": "Levi's Stadium",
+        "city": "Santa Clara",
+        "state": "CA",
+        "capacity": 68500,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "95054",
+        "address": "4900 Marie P DeBartolo Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }]
+  }, {
+    "id": "6453c2ea-aaa2-4ffa-bd8f-b73b1c43cc41",
+    "number": 2,
+    "games": [{
+      "id": "8026f679-75ec-43a5-a56a-8fd951386829",
+      "scheduled": "2016-08-18T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "PIT",
+      "away": "PHI",
+      "status": "scheduled",
+      "venue": {
+        "id": "7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34",
+        "country": "USA",
+        "name": "Heinz Field",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "capacity": 65050,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "15212",
+        "address": "100 Art Rooney Avenue"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "f0be2e16-d599-4273-93b3-723d58d6a74b",
+      "scheduled": "2016-08-18T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "DET",
+      "away": "CIN",
+      "status": "scheduled",
+      "venue": {
+        "id": "6e3bcf22-277d-4c06-b019-62aded51654f",
+        "country": "USA",
+        "name": "Ford Field",
+        "city": "Detroit",
+        "state": "MI",
+        "capacity": 65000,
+        "surface": "artificial",
+        "type": "dome",
+        "zip": "48226",
+        "address": "2000 Brush Street"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "5d424ba5-ff92-445e-91ca-f27886e98839",
+      "scheduled": "2016-08-19T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "NE",
+      "away": "CHI",
+      "status": "scheduled",
+      "venue": {
+        "id": "e43310b1-cb82-4df9-8be5-e9b39637031b",
+        "country": "USA",
+        "name": "Gillette Stadium",
+        "city": "Foxborough",
+        "state": "MA",
+        "capacity": 68756,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "02035",
+        "address": "One Patriot Place"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "128607b4-f05d-4654-85a3-b5540f6520e2",
+      "scheduled": "2016-08-19T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "CLE",
+      "away": "ATL",
+      "status": "scheduled",
+      "venue": {
+        "id": "90c38d91-3774-4f5d-82ca-1c806828219f",
+        "country": "USA",
+        "name": "FirstEnergy Stadium",
+        "city": "Cleveland",
+        "state": "OH",
+        "capacity": 71516,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "44114",
+        "address": "100 Alfred Lerner Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "7716f0ff-2c1f-4ad0-983a-8d5567574fb6",
+      "scheduled": "2016-08-19T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "GB",
+      "away": "OAK",
+      "status": "scheduled",
+      "venue": {
+        "id": "5a60dd3a-302c-41c6-ab0f-dd335c1103c2",
+        "country": "USA",
+        "name": "Lambeau Field",
+        "city": "Green Bay",
+        "state": "WI",
+        "capacity": 80750,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "54304",
+        "address": "1265 Lombardi Avenue"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "28410633-f7dd-466d-af1e-91eb77a8a9cf",
+      "scheduled": "2016-08-19T02:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "SEA",
+      "away": "MIN",
+      "status": "scheduled",
+      "venue": {
+        "id": "c6b9e5df-c9e4-434c-b3e6-83928f11cbda",
+        "country": "USA",
+        "name": "CenturyLink Field",
+        "city": "Seattle",
+        "state": "WA",
+        "capacity": 67000,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "98134",
+        "address": "800 Occidental Avenue South"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "5fe17426-85c9-4b19-b786-c5d40f7416f3",
+      "scheduled": "2016-08-19T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "WAS",
+      "away": "NYJ",
+      "status": "scheduled",
+      "venue": {
+        "id": "7c11bb2d-4a53-4842-b842-0f1c63ed78e9",
+        "country": "USA",
+        "name": "FedExField",
+        "city": "Landover",
+        "state": "MD",
+        "capacity": 83000,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "20785",
+        "address": "1600 FedEx Way"
+      },
+      "broadcast": {
+        "network": "CBS"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "d7f40d16-25a3-4ef5-84ea-2f2b54a530c0",
+      "scheduled": "2016-08-20T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "DAL",
+      "away": "MIA",
+      "status": "scheduled",
+      "venue": {
+        "id": "1e84213a-ff1f-4c9d-a003-8ee782b25a40",
+        "country": "USA",
+        "name": "AT&T Stadium",
+        "city": "Arlington",
+        "state": "TX",
+        "capacity": 80000,
+        "surface": "artificial",
+        "type": "retractable_dome",
+        "zip": "76011",
+        "address": "One Legends Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "3c7209a1-0ad2-4289-953f-cc3d3e6044ac",
+      "scheduled": "2016-08-20T01:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "SD",
+      "away": "ARI",
+      "status": "scheduled",
+      "venue": {
+        "id": "7ca47702-8951-45be-a4f5-3e7d78f8f399",
+        "country": "USA",
+        "name": "Qualcomm Stadium",
+        "city": "San Diego",
+        "state": "CA",
+        "capacity": 70561,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "92108",
+        "address": "9449 Friars Road"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "7494c7ac-a8d1-44fd-b253-05efc7f422ca",
+      "scheduled": "2016-08-20T17:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "LA",
+      "away": "KC",
+      "status": "time-tbd",
+      "venue": {
+        "id": "4de1fcde-7c65-4145-a874-3753bdd584b7",
+        "country": "USA",
+        "name": "Los Angeles Memorial Coliseum",
+        "city": "Los Angeles",
+        "state": "CA",
+        "capacity": 93607,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "90037",
+        "address": "3911 South Figueroa Street"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "70e3e8cc-5316-4945-a9f5-27877f081287",
+      "scheduled": "2016-08-20T19:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "TEN",
+      "away": "CAR",
+      "status": "scheduled",
+      "venue": {
+        "id": "5295c1b7-c85c-49cb-9569-1707c65324e5",
+        "country": "USA",
+        "name": "Nissan Stadium",
+        "city": "Nashville",
+        "state": "TN",
+        "capacity": 69143,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "37213",
+        "address": "One Titans Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "f6fa652c-bf4a-4131-a0b8-a3ecee1f383a",
+      "scheduled": "2016-08-20T20:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "BUF",
+      "away": "NYG",
+      "status": "scheduled",
+      "venue": {
+        "id": "e9e0828e-37fc-4238-a317-49037577dd55",
+        "country": "USA",
+        "name": "Ralph Wilson Stadium",
+        "city": "Orchard Park",
+        "state": "NY",
+        "capacity": 73079,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "14127",
+        "address": "One Bills Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "36234831-9e83-4def-9b36-4eaa5df4bb76",
+      "scheduled": "2016-08-20T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "IND",
+      "away": "BAL",
+      "status": "scheduled",
+      "venue": {
+        "id": "6ed18563-53e0-46c2-a91d-12d73a16456d",
+        "country": "USA",
+        "name": "Lucas Oil Stadium",
+        "city": "Indianapolis",
+        "state": "IN",
+        "capacity": 67000,
+        "surface": "artificial",
+        "type": "retractable_dome",
+        "zip": "46225",
+        "address": "500 South Capitol Avenue"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "3db73665-b4c6-4323-b57e-8510f40f0333",
+      "scheduled": "2016-08-20T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "JAC",
+      "away": "TB",
+      "status": "scheduled",
+      "venue": {
+        "id": "4c5c036d-dd3d-4183-b595-71a43a97560f",
+        "country": "USA",
+        "name": "EverBank Field",
+        "city": "Jacksonville",
+        "state": "FL",
+        "capacity": 67246,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "32202",
+        "address": "One EverBank Field Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "2d77a8ef-9436-44b0-9c09-ce47d9659954",
+      "scheduled": "2016-08-21T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "HOU",
+      "away": "NO",
+      "status": "scheduled",
+      "venue": {
+        "id": "6a72e5ca-33d0-40af-8e6b-b32a4d3d9346",
+        "country": "USA",
+        "name": "NRG Stadium",
+        "city": "Houston",
+        "state": "TX",
+        "capacity": 71054,
+        "surface": "artificial",
+        "type": "retractable_dome",
+        "zip": "77054",
+        "address": "One Reliant Park"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "866ff734-2e05-4114-b4e1-469588419edc",
+      "scheduled": "2016-08-21T01:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "DEN",
+      "away": "SF",
+      "status": "scheduled",
+      "venue": {
+        "id": "6589e61d-ef1e-4e30-91b5-9acd2072b8a0",
+        "country": "USA",
+        "name": "Sports Authority Field at Mile High",
+        "city": "Denver",
+        "state": "CO",
+        "capacity": 76125,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "80204",
+        "address": "1701 Mile High Stadium Circle"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }]
+  }, {
+    "id": "9d666385-4e52-4de6-8b84-b59f0919a170",
+    "number": 3,
+    "games": [{
+      "id": "51f3b182-8acb-4f6b-9981-a186cddbd367",
+      "scheduled": "2016-08-26T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "MIA",
+      "away": "ATL",
+      "status": "scheduled",
+      "venue": {
+        "id": "50a5c833-1570-4c38-abc7-7914cf87dbde",
+        "country": "USA",
+        "name": "Miami Stadium",
+        "city": "Miami Gardens",
+        "state": "FL",
+        "capacity": 76100,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "33056",
+        "address": "2269 Northwest 199th Street"
+      },
+      "broadcast": {
+        "network": "NBC"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "3187c5c3-a82a-449d-9679-e19dff082af9",
+      "scheduled": "2016-08-26T02:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "SEA",
+      "away": "DAL",
+      "status": "scheduled",
+      "venue": {
+        "id": "c6b9e5df-c9e4-434c-b3e6-83928f11cbda",
+        "country": "USA",
+        "name": "CenturyLink Field",
+        "city": "Seattle",
+        "state": "WA",
+        "capacity": 67000,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "98134",
+        "address": "800 Occidental Avenue South"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "5ee47d35-c1c2-41d6-96e1-d732c768e6a9",
+      "scheduled": "2016-08-26T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "CAR",
+      "away": "NE",
+      "status": "scheduled",
+      "venue": {
+        "id": "39be9ed4-3292-49ac-8699-a381de3a4969",
+        "country": "USA",
+        "name": "Bank of America Stadium",
+        "city": "Charlotte",
+        "state": "NC",
+        "capacity": 73778,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "28202",
+        "address": "800 South Mint Street"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "34a3ff0e-b7fa-433e-b452-dd1501ed8246",
+      "scheduled": "2016-08-27T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "NO",
+      "away": "PIT",
+      "status": "scheduled",
+      "venue": {
+        "id": "3c85d89a-ec66-4983-acd5-1381d6c8673a",
+        "country": "USA",
+        "name": "Mercedes-Benz Superdome",
+        "city": "New Orleans",
+        "state": "LA",
+        "capacity": 76468,
+        "surface": "artificial",
+        "type": "dome",
+        "zip": "70112",
+        "address": "1500 Sugar Bowl Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "bb1a8641-2fa3-4ca4-a53e-935870273a6f",
+      "scheduled": "2016-08-27T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "TB",
+      "away": "CLE",
+      "status": "scheduled",
+      "venue": {
+        "id": "6fccc39c-80bc-4c81-83d9-2d5a848c8c09",
+        "country": "USA",
+        "name": "Raymond James Stadium",
+        "city": "Tampa",
+        "state": "FL",
+        "capacity": 65890,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "33607",
+        "address": "4201 North Dale Mabry Highway"
+      },
+      "broadcast": {
+        "network": "CBS"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "eb892efc-e441-4074-bc71-a394b471831d",
+      "scheduled": "2016-08-27T02:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "SF",
+      "away": "GB",
+      "status": "scheduled",
+      "venue": {
+        "id": "24c71dbf-6469-46f1-8165-22005c295c8f",
+        "country": "USA",
+        "name": "Levi's Stadium",
+        "city": "Santa Clara",
+        "state": "CA",
+        "capacity": 68500,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "95054",
+        "address": "4900 Marie P DeBartolo Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "6ae15a46-ac3e-4af9-b5ef-bd90f0518790",
+      "scheduled": "2016-08-27T17:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "CHI",
+      "away": "KC",
+      "status": "scheduled",
+      "venue": {
+        "id": "d7866605-5ac6-4b3a-90e8-760cc5a26b75",
+        "country": "USA",
+        "name": "Soldier Field",
+        "city": "Chicago",
+        "state": "IL",
+        "capacity": 61500,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "60605",
+        "address": "1410 South Museum Campus Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "cc6c0036-ed8e-40c0-a004-f23f27a1e706",
+      "scheduled": "2016-08-27T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "WAS",
+      "away": "BUF",
+      "status": "scheduled",
+      "venue": {
+        "id": "7c11bb2d-4a53-4842-b842-0f1c63ed78e9",
+        "country": "USA",
+        "name": "FedExField",
+        "city": "Landover",
+        "state": "MD",
+        "capacity": 83000,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "20785",
+        "address": "1600 FedEx Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "62cf9bee-4df0-4fcb-b950-245edf637285",
+      "scheduled": "2016-08-27T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "IND",
+      "away": "PHI",
+      "status": "scheduled",
+      "venue": {
+        "id": "6ed18563-53e0-46c2-a91d-12d73a16456d",
+        "country": "USA",
+        "name": "Lucas Oil Stadium",
+        "city": "Indianapolis",
+        "state": "IN",
+        "capacity": 67000,
+        "surface": "artificial",
+        "type": "retractable_dome",
+        "zip": "46225",
+        "address": "500 South Capitol Avenue"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "9ffaa2bd-23c6-4c38-9d19-7339cebf8b76",
+      "scheduled": "2016-08-27T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "BAL",
+      "away": "DET",
+      "status": "scheduled",
+      "venue": {
+        "id": "d54faae0-0314-484f-8604-9d8dd08e1149",
+        "country": "USA",
+        "name": "M&T Bank Stadium",
+        "city": "Baltimore",
+        "state": "MD",
+        "capacity": 71008,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "21230",
+        "address": "1101 Russell Street"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "1e73d18d-bf60-457e-9dca-a64e6157b887",
+      "scheduled": "2016-08-27T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "NYJ",
+      "away": "NYG",
+      "status": "scheduled",
+      "venue": {
+        "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+        "country": "USA",
+        "name": "MetLife Stadium",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "capacity": 82500,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "07073",
+        "address": "One MetLife Stadium Drive"
+      },
+      "broadcast": {
+        "network": "CBS"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "782207a6-ee8f-4aca-b8d9-c8d67db82899",
+      "scheduled": "2016-08-28T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "OAK",
+      "away": "TEN",
+      "status": "scheduled",
+      "venue": {
+        "id": "ba1ad00f-9130-462c-93f9-5612a0015117",
+        "country": "USA",
+        "name": "Oakland Coliseum",
+        "city": "Oakland",
+        "state": "CA",
+        "capacity": 53200,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "94621",
+        "address": "7000 Coliseum Way"
+      },
+      "broadcast": {
+        "network": "CBS"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "40581aef-62fb-4f4c-b0a4-ade75ba2677a",
+      "scheduled": "2016-08-28T01:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "DEN",
+      "away": "LA",
+      "status": "scheduled",
+      "venue": {
+        "id": "6589e61d-ef1e-4e30-91b5-9acd2072b8a0",
+        "country": "USA",
+        "name": "Sports Authority Field at Mile High",
+        "city": "Denver",
+        "state": "CO",
+        "capacity": 76125,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "80204",
+        "address": "1701 Mile High Stadium Circle"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "7615bb73-5ff1-456e-9085-80ad7e151348",
+      "scheduled": "2016-08-28T17:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "MIN",
+      "away": "SD",
+      "status": "scheduled",
+      "venue": {
+        "id": "f5ff00d4-1ed8-4918-bf73-13d66d510f98",
+        "country": "USA",
+        "name": "U.S. Bank Stadium",
+        "city": "Minneapolis",
+        "state": "MN",
+        "capacity": 66200,
+        "surface": "turf",
+        "type": "dome",
+        "address": "900 S 5th St"
+      },
+      "broadcast": {
+        "network": "FOX"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "0dd68d13-7135-46dc-a90c-849d47226d51",
+      "scheduled": "2016-08-28T20:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "HOU",
+      "away": "ARI",
+      "status": "scheduled",
+      "venue": {
+        "id": "6a72e5ca-33d0-40af-8e6b-b32a4d3d9346",
+        "country": "USA",
+        "name": "NRG Stadium",
+        "city": "Houston",
+        "state": "TX",
+        "capacity": 71054,
+        "surface": "artificial",
+        "type": "retractable_dome",
+        "zip": "77054",
+        "address": "One Reliant Park"
+      },
+      "broadcast": {
+        "network": "FOX"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "77029b10-47ea-4a53-872d-39887b154d11",
+      "scheduled": "2016-08-29T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "JAC",
+      "away": "CIN",
+      "status": "scheduled",
+      "venue": {
+        "id": "4c5c036d-dd3d-4183-b595-71a43a97560f",
+        "country": "USA",
+        "name": "EverBank Field",
+        "city": "Jacksonville",
+        "state": "FL",
+        "capacity": 67246,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "32202",
+        "address": "One EverBank Field Drive"
+      },
+      "broadcast": {
+        "network": "NBC"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }]
+  }, {
+    "id": "51e2a000-245e-455b-bc22-fdad0350418b",
+    "number": 4,
+    "games": [{
+      "id": "3b186719-3353-4de1-97ba-b963f2de3d98",
+      "scheduled": "2016-09-01T17:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "MIA",
+      "away": "TEN",
+      "status": "time-tbd",
+      "venue": {
+        "id": "50a5c833-1570-4c38-abc7-7914cf87dbde",
+        "country": "USA",
+        "name": "Miami Stadium",
+        "city": "Miami Gardens",
+        "state": "FL",
+        "capacity": 76100,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "33056",
+        "address": "2269 Northwest 199th Street"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "b1f91625-a794-44e3-bc18-c58f7fa7fe77",
+      "scheduled": "2016-09-01T17:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "ATL",
+      "away": "JAC",
+      "status": "time-tbd",
+      "venue": {
+        "id": "216de6bf-bce0-409a-a9e7-90db8df1f7b9",
+        "country": "USA",
+        "name": "Georgia Dome",
+        "city": "Atlanta",
+        "state": "GA",
+        "capacity": 74228,
+        "surface": "artificial",
+        "type": "dome",
+        "zip": "30313",
+        "address": "One Georgia Dome Drive Northwest"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "64834645-9d66-4ff3-8e3a-0f65f01865c0",
+      "scheduled": "2016-09-01T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "NYG",
+      "away": "NE",
+      "status": "scheduled",
+      "venue": {
+        "id": "5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c",
+        "country": "USA",
+        "name": "MetLife Stadium",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "capacity": 82500,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "07073",
+        "address": "One MetLife Stadium Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "90f358e1-27fa-4e12-a0e4-5031fd6ec50f",
+      "scheduled": "2016-09-01T23:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "PHI",
+      "away": "NYJ",
+      "status": "scheduled",
+      "venue": {
+        "id": "4fa8c29c-6626-464c-8540-314ed7535e1b",
+        "country": "USA",
+        "name": "Lincoln Financial Field",
+        "city": "Philadelphia",
+        "state": "PA",
+        "capacity": 68532,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "19148",
+        "address": "1020 Pattison Avenue"
+      },
+      "broadcast": {
+        "network": "CBS"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "9ca61d13-1cad-4de4-a151-4f11b31ec1bc",
+      "scheduled": "2016-09-01T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "TB",
+      "away": "WAS",
+      "status": "scheduled",
+      "venue": {
+        "id": "6fccc39c-80bc-4c81-83d9-2d5a848c8c09",
+        "country": "USA",
+        "name": "Raymond James Stadium",
+        "city": "Tampa",
+        "state": "FL",
+        "capacity": 65890,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "33607",
+        "address": "4201 North Dale Mabry Highway"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "770c5572-36d7-4346-874f-0a1875259843",
+      "scheduled": "2016-09-01T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "CAR",
+      "away": "PIT",
+      "status": "scheduled",
+      "venue": {
+        "id": "39be9ed4-3292-49ac-8699-a381de3a4969",
+        "country": "USA",
+        "name": "Bank of America Stadium",
+        "city": "Charlotte",
+        "state": "NC",
+        "capacity": 73778,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "28202",
+        "address": "800 South Mint Street"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "8fd94797-d3da-43a7-a3b6-f65ad07a79a1",
+      "scheduled": "2016-09-01T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "DET",
+      "away": "BUF",
+      "status": "scheduled",
+      "venue": {
+        "id": "6e3bcf22-277d-4c06-b019-62aded51654f",
+        "country": "USA",
+        "name": "Ford Field",
+        "city": "Detroit",
+        "state": "MI",
+        "capacity": 65000,
+        "surface": "artificial",
+        "type": "dome",
+        "zip": "48226",
+        "address": "2000 Brush Street"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "1c2457b6-be9e-4cb8-8f0a-59d41855acc8",
+      "scheduled": "2016-09-01T23:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "CIN",
+      "away": "IND",
+      "status": "scheduled",
+      "venue": {
+        "id": "b87a1595-d3c8-48ea-8a53-0aab6378a64a",
+        "country": "USA",
+        "name": "Paul Brown Stadium",
+        "city": "Cincinnati",
+        "state": "OH",
+        "capacity": 65535,
+        "surface": "artificial",
+        "type": "outdoor",
+        "zip": "45202",
+        "address": "One Paul Brown Stadium"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "3d58fd9c-d8ef-4d98-ac0d-b1b4b4e7de55",
+      "scheduled": "2016-09-02T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "NO",
+      "away": "BAL",
+      "status": "scheduled",
+      "venue": {
+        "id": "3c85d89a-ec66-4983-acd5-1381d6c8673a",
+        "country": "USA",
+        "name": "Mercedes-Benz Superdome",
+        "city": "New Orleans",
+        "state": "LA",
+        "capacity": 76468,
+        "surface": "artificial",
+        "type": "dome",
+        "zip": "70112",
+        "address": "1500 Sugar Bowl Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "6f8c0f15-bbb7-4c4f-b191-35841d8aa68a",
+      "scheduled": "2016-09-02T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "MIN",
+      "away": "LA",
+      "status": "scheduled",
+      "venue": {
+        "id": "f5ff00d4-1ed8-4918-bf73-13d66d510f98",
+        "country": "USA",
+        "name": "U.S. Bank Stadium",
+        "city": "Minneapolis",
+        "state": "MN",
+        "capacity": 66200,
+        "surface": "turf",
+        "type": "dome",
+        "address": "900 S 5th St"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "5bef1a4a-a594-4fd8-93e8-e063ab68e970",
+      "scheduled": "2016-09-02T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "DAL",
+      "away": "HOU",
+      "status": "scheduled",
+      "venue": {
+        "id": "1e84213a-ff1f-4c9d-a003-8ee782b25a40",
+        "country": "USA",
+        "name": "AT&T Stadium",
+        "city": "Arlington",
+        "state": "TX",
+        "capacity": 80000,
+        "surface": "artificial",
+        "type": "retractable_dome",
+        "zip": "76011",
+        "address": "One Legends Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "dd22432f-b550-4e48-b162-c7bd0973773b",
+      "scheduled": "2016-09-02T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "KC",
+      "away": "GB",
+      "status": "scheduled",
+      "venue": {
+        "id": "2ec4c411-dac2-403d-b091-6b6aa4a0a914",
+        "country": "USA",
+        "name": "Arrowhead Stadium",
+        "city": "Kansas City",
+        "state": "MO",
+        "capacity": 79451,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "64129",
+        "address": "One Arrowhead Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "6f0f9607-5291-434d-9371-51a8a700b266",
+      "scheduled": "2016-09-02T00:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "CLE",
+      "away": "CHI",
+      "status": "scheduled",
+      "venue": {
+        "id": "90c38d91-3774-4f5d-82ca-1c806828219f",
+        "country": "USA",
+        "name": "FirstEnergy Stadium",
+        "city": "Cleveland",
+        "state": "OH",
+        "capacity": 71516,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "44114",
+        "address": "100 Alfred Lerner Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "f4c771f3-b0c4-4c1a-b28d-9432d7b3fdee",
+      "scheduled": "2016-09-02T01:30:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "ARI",
+      "away": "DEN",
+      "status": "scheduled",
+      "venue": {
+        "id": "f8e4d2ab-53f9-4e9f-8c4a-9bc278094a84",
+        "country": "USA",
+        "name": "University of Phoenix Stadium",
+        "city": "Glendale",
+        "state": "AZ",
+        "capacity": 63400,
+        "surface": "turf",
+        "type": "retractable_dome",
+        "zip": "85305",
+        "address": "One Cardinals Drive"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "8629cac8-24fc-40d6-8bc4-ae4e3056ae14",
+      "scheduled": "2016-09-02T02:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "OAK",
+      "away": "SEA",
+      "status": "scheduled",
+      "venue": {
+        "id": "ba1ad00f-9130-462c-93f9-5612a0015117",
+        "country": "USA",
+        "name": "Oakland Coliseum",
+        "city": "Oakland",
+        "state": "CA",
+        "capacity": 53200,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "94621",
+        "address": "7000 Coliseum Way"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }, {
+      "id": "3c0a58df-c112-4134-b1c2-0240b8e8dfa3",
+      "scheduled": "2016-09-02T02:00:00+00:00",
+      "home_rotation": "",
+      "away_rotation": "",
+      "home": "SD",
+      "away": "SF",
+      "status": "scheduled",
+      "venue": {
+        "id": "7ca47702-8951-45be-a4f5-3e7d78f8f399",
+        "country": "USA",
+        "name": "Qualcomm Stadium",
+        "city": "San Diego",
+        "state": "CA",
+        "capacity": 70561,
+        "surface": "turf",
+        "type": "outdoor",
+        "zip": "92108",
+        "address": "9449 Friars Road"
+      },
+      "weather": {
+        "temperature": null,
+        "condition": null,
+        "humidity": null,
+        "wind": {
+          "speed": null,
+          "direction": null
+        }
+      }
+    }]
+  }]
+}

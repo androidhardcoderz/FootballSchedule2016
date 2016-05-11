@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:text="Medium Text"
+        android:id="@+id/visitorTextView"
+        android:layout_weight="1"
+        android:gravity="center_vertical|center_horizontal"
+        android:typeface="sans"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:text="Small Text"
+            android:id="@+id/weekTextView"
+            android:gravity="center_vertical|center_horizontal"
+            android:typeface="normal" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:text="Small Text"
+            android:id="@+id/dateTextView"
+            android:gravity="center_vertical|center_horizontal"
+            android:typeface="normal" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:text="Small Text"
+            android:id="@+id/timeTextView"
+            android:gravity="center_vertical|center_horizontal"
+            android:typeface="normal" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:text="Medium Text"
+        android:id="@+id/homeTextView"
+        android:layout_weight="1"
+        android:gravity="center_vertical|center_horizontal"
+        android:typeface="sans"
+        android:textStyle="bold" />
+</LinearLayout>

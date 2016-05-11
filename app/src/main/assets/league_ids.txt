@@ -1,0 +1,32 @@
+BUF,Buffalo Bills
+MIA,Miami Dolphins
+NYJ,New York Jets
+NE,New England Patriots
+CIN,Cincinnati Bengals
+CLE,Cleveland Browns
+BAL,Baltimore Ravens
+PIT,Pittsburgh Steelers
+IND,Indianapolis Colts
+JAC,Jacksonville Jaguars
+HOU,Houston Texans
+TEN,Tennessee Titans
+DEN,Denver Broncos
+SD,San Diego Chargers
+KC,Kansas City Chiefs
+LA,Los Angeles Rams
+OAK,Oakland Raiders
+DAL,Dallas Cowboys
+PHI,Philadelphia Eagles
+NYG,New York Giants
+WAS,Washington Redskins
+CHI,Chicago Bears
+DET,Detroit Lions
+GB,Green Bay Packers
+MIN,Minnesota Vikings
+TB,Tampa Bay Buccaneers
+ATL,Atlanta Falcons
+CAR,Carolina Panthers
+NO,New Orleans Saints
+SF,San Francisco 49ers
+ARI,Arizona Cardinals
+SEA,Seattle Seahawks

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/week1"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 1" />
+        <item
+            android:id="@+id/week2"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 2" />
+        <item
+            android:id="@+id/week3"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 3" />
+        <item
+            android:id="@+id/week4"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 4" />
+        <item
+            android:id="@+id/week5"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 5" />
+
+        <item
+            android:id="@+id/week6"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 6" />
+
+
+        <item
+            android:id="@+id/week7"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 7" />
+
+
+        <item
+            android:id="@+id/week8"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 8" />
+
+
+        <item
+            android:id="@+id/week9"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 9" />
+
+
+        <item
+            android:id="@+id/week10"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 10" />
+
+        <item
+            android:id="@+id/week11"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 11" />
+
+        <item
+            android:id="@+id/week12"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 12" />
+        <item
+            android:id="@+id/week13"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 13" />
+        <item
+            android:id="@+id/week14"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 14" />
+        <item
+            android:id="@+id/week15"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 15" />
+        <item
+            android:id="@+id/week16"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 16" />
+        <item
+            android:id="@+id/week17"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Week 17" />
+       </group>
+</menu>

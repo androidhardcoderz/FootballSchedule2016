@@ -7,7 +7,7 @@
 <LinearLayout
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.footballschedule2016.logify.TeamListingFragment"
+    tools:context=".views.TeamListingFragment"
     android:orientation="vertical">
 
     <!-- TODO: Update blank fragment layout -->

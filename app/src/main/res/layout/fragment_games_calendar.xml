@@ -7,7 +7,7 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:context="com.footballschedule2016.logify.CalendarFragment"
+        tools:context=".calender.CalendarFragment"
         android:id="@+id/gamesCalContainer"
         android:background="@android:color/black"
         android:layout_weight="1">

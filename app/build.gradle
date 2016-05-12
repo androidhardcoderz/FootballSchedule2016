@@ -8,8 +8,8 @@ android {
         applicationId "com.footballschedule2016.logify"
         minSdkVersion 16
         targetSdkVersion 23
-        versionCode 3
-        versionName "schedule"
+        versionCode 4
+        versionName "preseason/regular"
     }
     buildTypes {
         release {
